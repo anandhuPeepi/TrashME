@@ -57,5 +57,26 @@ Users can upload waste items, earn points, and even convert those points into ca
 - Admin approval screen (pending / approved / rejected)
 
 ---
+---
+
+## 📸 Screenshots
+
+### Main Screens
+
+| Splash | Login | Home |
+|--------|--------|-------|
+| ![](screenshots/1_splash.png) | ![](screenshots/2_login.png) | ![](screenshots/3_home.png) |
+
+| Upload | Wallet (IBAN) | Admin |
+|--------|----------------|--------|
+| ![](screenshots/4_upload.png) | ![](screenshots/5_wallet.png) | ![](screenshots/6_admin_approval1.png) |
+
+---
+
+### Additional Screens
+
+| Wallet Alt | Admin Alt |
+|-------------|-----------|
+| ![](screenshots/5_wallet2.png) | ![](screenshots/6_admin_approval2.png) |
 
 
